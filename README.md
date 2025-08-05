@@ -18,11 +18,6 @@ I'm a self-driven full stack developer who loves building impactful and scalable
 
 ### 🧠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat" />
@@ -30,6 +25,10 @@ I'm a self-driven full stack developer who loves building impactful and scalable
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
 </p>
 
 ---
