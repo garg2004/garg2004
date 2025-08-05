@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arpita Garg</h1>
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG8ybXpxaGxnbmlodDh5ZzZubjc3YmZxcGJtNDBqN25tb2ZuNzN4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding" width="80%" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG8ybXpxaGxnbmlodDh5ZzZubjc3YmZxcGJtNDBqN25tb2ZuNzN4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding" width="30%" />
 </p>
 
 <p align="center">
